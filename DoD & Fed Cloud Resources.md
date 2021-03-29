@@ -12,7 +12,17 @@ DoD Security Requirements Guide (SRG) (https://rmf.org/wp-content/uploads/2018/0
 
 DISA Secure Cloud Computing Architecture guide (https://rmf.org/wp-content/uploads/2018/05/SCCA_FRD_v2-9.pdf)
 
-**Army**. 
+DoD Cloud Exchange 2021 (https://federalnewsnetwork.com/defense-main/2021/03/dod-cloud-exchange-archived-sessions/)
+
+**Air Force**
+
+DoD Enterprise DevSecOps Initiaitive and Platform One Documents (https://software.af.mil/dsop/documents/) 
+
+Platform One Products and Services (https://software.af.mil/dsop/services/)
+
+Platform One Homepage (https://p1.dso.mil/#/)
+
+**Army**
 
 Army Cloud Plan 2020 (https://api.army.mil/e2/c/downloads/2020/09/11/81bb912e/the-army-cloud-plan-2020-final2.pdf)
 
