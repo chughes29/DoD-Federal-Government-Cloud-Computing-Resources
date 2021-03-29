@@ -6,6 +6,12 @@ Federal Government Cloud Smart Strategy (https://cloud.cio.gov/strategy/)
 
 **Department of Defense**
 
+DoD Cloud Strategy (https://media.defense.gov/2019/Feb/04/2002085866/-1/-1/1/DOD-CLOUD-STRATEGY.PDF)
+
+DoD Cloud Strategy Overview (https://apps.dtic.mil/dtic/tr/fulltext/u2/1072139.pdf)
+
+Defense Acquisition University - DoD Cloud Computing Acquisition Guidebook (https://www.dau.edu/guidebooks/Shared%20Documents/DoD%20Cloud%20Acquisition%20Guidebook.pdf)
+
 DoD DevSecOps Reference Architecture  (https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf). 
 
 DoD Security Requirements Guide (SRG) (https://rmf.org/wp-content/uploads/2018/05/Cloud_Computing_SRG_v1r3.pdf). 
