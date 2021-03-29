@@ -26,6 +26,22 @@ Platform One Homepage (https://p1.dso.mil/#/)
 
 Army Cloud Plan 2020 (https://api.army.mil/e2/c/downloads/2020/09/11/81bb912e/the-army-cloud-plan-2020-final2.pdf)
 
+**Carnegie Mellon - Software Engineering Institute (SEI)**
+
+SEI DevSecOps Blog - (https://insights.sei.cmu.edu/blog/topics/devsecops/)
+
+Guide to Implementing DevSecOps for a System of Systems in Highly Regulated Industries (https://resources.sei.cmu.edu/asset_files/TechnicalReport/2020_005_001_638589.pdf)
+
+SEI DevSecOps - (https://www.sei.cmu.edu/our-work/devsecops/)
+
+Adopting a DevSecOps Culture in the DoD (https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=638671)
+
+Trust, Verify & Authorize with DevSecOps (https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=638929)
+
+At What Point Does DevSecOps Become Too Risky for the Business? (https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=638492)
+
+DevSecOps Implementation in the DoD: Barriers and Enablers (https://www.youtube.com/watch?v=mE9HMNn7_Pg&list=PLQvhFTnS5hOIwcgRn7q2ctoqGbiE8Lhri&index=4&t=2795s)
+
 **National Institute of Standards and Technologies (NIST)**
 
 Risk Management Framework for Information Sytems and Organizations SP 800-37 (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
