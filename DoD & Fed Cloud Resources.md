@@ -20,6 +20,18 @@ Army Cloud Plan 2020 (https://api.army.mil/e2/c/downloads/2020/09/11/81bb912e/th
 
 Risk Management Framework for Information Sytems and Organizations SP 800-37 (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
 
+Security and Privacy Controls for Information Systems and Organizations SP 800-53 (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
+
+Assessing Security and Privacy Controls in Federal Information Systems and Organizations SP 800-53A (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53Ar4.pdf)
+
+Standards for Security Categorization of Federal Information and Information Systems FIPS PUB 199 (https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)
+
+Guide for Conducting Risk Assessments SP 800-30 (https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf)
+
+An Introduction to Privavy Engineering and Risk Management in Federal Systems NISTIR 8062 (https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf)
+
+Security Categorization and Control Selection for National Security Systems CNSS 1253 (https://www.dcsa.mil/portals/91/documents/ctp/nao/CNSSI_No1253.pdf)
+
 Information Security Continuous Monitoring (ISCM) For Federal Information Systems and Organizations SP 800-137 (https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-137.pdf)
 
 Zero Trust Architecture SP 800-207 (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
